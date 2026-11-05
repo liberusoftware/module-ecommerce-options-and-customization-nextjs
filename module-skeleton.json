@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-options-and-customization-nextjs",
+  "capabilityKey": "planned:ecommerce:options-and-customization",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-options-and-customization-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/options-and-customization.md",
+  "presentationPlan": "projects/ecommerce/nextjs/options-and-customization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
